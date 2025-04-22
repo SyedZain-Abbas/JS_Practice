@@ -1,0 +1,1 @@
+console.log('the sumof given two number:',sum)
